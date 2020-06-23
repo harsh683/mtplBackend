@@ -1,0 +1,99 @@
+Sun Jun 21 2020 02:45:29 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'then' of undefined
+    at Object.service.setupDb (C:\Users\Harsh Anand\Desktop\mtplbackend\src\service\service.js:5:29)
+    at C:\Users\Harsh Anand\Desktop\mtplbackend\src\routes\routing.js:9:13
+    at Layer.handle [as handle_request] (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\body-parser\lib\types\json.js:110:7)
+Sun Jun 21 2020 02:47:26 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'then' of undefined
+    at Object.service.setupDb (C:\Users\Harsh Anand\Desktop\mtplbackend\src\service\service.js:5:29)
+    at C:\Users\Harsh Anand\Desktop\mtplbackend\src\routes\routing.js:9:13
+    at Layer.handle [as handle_request] (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\body-parser\lib\types\json.js:110:7)
+Sun Jun 21 2020 02:50:20 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'then' of undefined
+    at Object.service.setupDb (C:\Users\Harsh Anand\Desktop\mtplbackend\src\service\service.js:5:29)
+    at C:\Users\Harsh Anand\Desktop\mtplbackend\src\routes\routing.js:9:13
+    at Layer.handle [as handle_request] (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\body-parser\lib\types\json.js:110:7)
+Sun Jun 21 2020 02:50:23 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'then' of undefined
+    at Object.service.setupDb (C:\Users\Harsh Anand\Desktop\mtplbackend\src\service\service.js:5:29)
+    at C:\Users\Harsh Anand\Desktop\mtplbackend\src\routes\routing.js:9:13
+    at Layer.handle [as handle_request] (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\body-parser\lib\types\json.js:110:7)
+Sun Jun 21 2020 02:52:55 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'then' of undefined
+    at Object.service.setupDb (C:\Users\Harsh Anand\Desktop\mtplbackend\src\service\service.js:5:29)
+    at C:\Users\Harsh Anand\Desktop\mtplbackend\src\routes\routing.js:9:13
+    at Layer.handle [as handle_request] (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\body-parser\lib\types\json.js:110:7)
+Sun Jun 21 2020 03:01:19 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'then' of undefined
+    at Object.service.setupDb (C:\Users\Harsh Anand\Desktop\mtplbackend\src\service\service.js:5:29)
+    at C:\Users\Harsh Anand\Desktop\mtplbackend\src\routes\routing.js:9:13
+    at Layer.handle [as handle_request] (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\body-parser\lib\types\json.js:110:7)
+Tue Jun 23 2020 17:23:54 GMT+0530 (India Standard Time) - TypeError: db.installmentOptions(...).then is not a function
+    at Object.service.installmentOptions (C:\Users\Harsh Anand\Desktop\mtplbackend\src\service\service.js:33:40)
+    at C:\Users\Harsh Anand\Desktop\mtplbackend\src\routes\routing.js:36:13
+    at Layer.handle [as handle_request] (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\body-parser\lib\types\json.js:119:7)
+Tue Jun 23 2020 17:25:40 GMT+0530 (India Standard Time) - TypeError: db.installmentOptions(...).then is not a function
+    at Object.service.installmentOptions (C:\Users\Harsh Anand\Desktop\mtplbackend\src\service\service.js:33:40)
+    at C:\Users\Harsh Anand\Desktop\mtplbackend\src\routes\routing.js:36:13
+    at Layer.handle [as handle_request] (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\body-parser\lib\types\json.js:119:7)
+Tue Jun 23 2020 17:26:26 GMT+0530 (India Standard Time) - TypeError: db.installmentOptions(...).then is not a function
+    at Object.service.installmentOptions (C:\Users\Harsh Anand\Desktop\mtplbackend\src\service\service.js:33:40)
+    at C:\Users\Harsh Anand\Desktop\mtplbackend\src\routes\routing.js:36:13
+    at Layer.handle [as handle_request] (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\Harsh Anand\Desktop\mtplbackend\node_modules\body-parser\lib\types\json.js:119:7)
