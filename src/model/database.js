@@ -141,24 +141,44 @@ const calculateInstallments = new Promise ((resolve,reject)=>{
 
 operations.installmentOptions = (data) =>{
     return calculateInstallments.then(()=>{
-    return {
-        singlePayment : {
-            amount : 500,
-            comments : "Single Payment"
+    return ([
+        {
+            "title": "Single Payment",
+            "subtitle": "Best value",
+            "amount": 4039999,
+            "saving": 60497,
+            "installmentsCount": 1,
+            "discounts": [],
+            "installments": []
         },
-        twoPayment : {
-            amount:540,
-            firstPayment : 300,
-            secondPayment : 240,
-            comments : "Every 6 months"
+        {
+            "title": "Two Payments",
+            "subtitle": "Every 6 months",
+            "amount": 4060098,
+            "saving": 40398,
+            "installmentsCount": 2,
+            "discounts": 0,
+            "installments": [
+                2030049,
+                2030049
+            ]
         },
-        fourPayment : {
-            amount:600,
-            firstPayment : 350,
-            secondPayment : 250,
-            comments : "Every 3 months"
+        {
+            "title": "Four Payments",
+            "subtitle": "Every 3 months",
+            "amount": 4100496,
+            "saving": 0,
+            "installmentsCount": 4,
+            "discounts": 0,
+            "installments": [
+                1025124,
+                1025124,
+                1025124,
+                1025124
+            ]
         }
-    };
+    ])
+    
 })
 
 }
